@@ -1,7 +1,7 @@
 # **🌟 Anindya Putri Kinar - Young Coder & Creative Developer**  
 
 **📍 About Me**  
-Hi! 👋 I'm **Anindya Putri Kinar**, you can call me Kinar, I am a student at Junior High School and I am a coding enthusiast who loves creating fun Roblox games and learning Python! ✨ When I'm not coding, you can find me drawing, playing games, or dreaming up new project ideas.  
+Hi! 👋 I'm **Anindya Putri Kinar**, you can call me Kinar, I am a student and I am a coding enthusiast who loves creating fun Roblox games and learning Python! ✨ When I'm not coding, you can find me drawing, playing games, or dreaming up new project ideas.  
 
 **🚀 My Mission:**  
 *"Coding is magic—you can build anything with just a keyboard and imagination!"*  
