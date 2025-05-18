@@ -12,7 +12,7 @@ Hi! 👋 I'm **Anindya Putri Kinar**, you can call me Kinar, I am a student and 
 I design and script games in Roblox Studio! Here are some of my creations:  
 
 ### **🌸 Sparkle Princess Adventure**  
-- **Genre:** Fantasy RPG  
+- **Genre:** Obby and Racing Track  
 - **Features:**  
   - Magical quests with unicorns & fairies  
   - Custom GUI with pink sparkle effects ✨  
