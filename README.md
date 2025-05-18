@@ -75,8 +75,8 @@ print(story)
 
 ## **📫 Let's Be Friends!**  
 - **Email:** anindyaputrikinar@gmail.com  
-- **Roblox Profile:** [AnindyaKinar]  
-- **Dream Collaboration:** Making a magical girl RPG with other kid devs!  
+- **Roblox Profile:** [LOP_YU10]  
+- **Dream Collaboration:** Making a projects with other kid devs!  
 
 ```diff
 + 💌 Note to Visitors:  
