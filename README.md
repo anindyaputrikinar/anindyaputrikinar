@@ -90,7 +90,6 @@ print(story)
 ---
 
 ### **🎀 My GitHub Stats**  
-![Anindya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anindyaputrikinar&show_icons=true&theme=radical&hide_border=true&title_color=ff66b2&icon_color=ff66b2&text_color=ffffff)  
 
 **Made with 💖, 🎀, and too much bubble tea**  
 
