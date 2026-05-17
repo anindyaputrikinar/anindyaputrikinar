@@ -94,6 +94,8 @@ print(story)
 
 **Made with 💖, 🎀, and too much bubble tea**  
 
-[![Visitors](https://komarev.com/ghpvc/?username=anindyaputrikinar&label=Sparkle%20Visitors&color=ff69b4)](https://github.com/anindyaputrikinar)  
+<center>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anindyaputrikinar&theme=radical&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+</center>
 
 *(Profile designed to pass the "Pink Sparkle Test" ✨)*
